@@ -126,7 +126,7 @@ com.greensock.TweenLite.set = function(target, vars)
 };
 
 /**
- * @param {Object} target
+ * @param {Object|string} target
  * @param {number} duration
  * @param {Object} vars
  * @returns {com.greensock.TweenLite}
