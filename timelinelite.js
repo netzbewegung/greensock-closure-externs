@@ -9,7 +9,7 @@ com.greensock.TimelineLite = function(vars)
 
 /**
  * @param {string} label
- * @param {string|number} position
+ * @param {string|number=} position
  * @returns {com.greensock.TimelineLite}
  */
 com.greensock.TimelineLite.prototype.addLabel = function(label, position)
